@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "lib": ["es2017"],
+    "strict": true,
+    "noEmit": false,
+    "skipLibCheck": true,
+    "outDir": "."
+  },
+  "files": [
+    "node_modules/@figma/plugin-typings/index.d.ts",
+    "code.ts"
+  ]
+}

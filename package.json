@@ -1,0 +1,20 @@
+{
+  "name": "proofx-figma",
+  "version": "1.0.0",
+  "description": "ProofX Content Protection plugin for Figma. Protect your designs with cryptographic signatures and blockchain-anchored timestamps.",
+  "author": "ProofX <hello@proofx.co.uk>",
+  "license": "MIT",
+  "homepage": "https://proofx.co.uk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/razashariff/proofx-figma.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "@figma/plugin-typings": "^1.100.0"
+  }
+}
