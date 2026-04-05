@@ -79,7 +79,7 @@ See [DEPLOY.md](./DEPLOY.md) for full publishing instructions.
 
 ## License
 
-MIT
+BSL 1.1
 
 ## Links
 

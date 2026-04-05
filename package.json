@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ProofX Content Protection plugin for Figma. Protect your designs with cryptographic signatures and blockchain-anchored timestamps.",
   "author": "ProofX <hello@proofx.co.uk>",
-  "license": "MIT",
+  "license": "BSL-1.1",
   "homepage": "https://proofx.co.uk",
   "repository": {
     "type": "git",
